@@ -1,4 +1,28 @@
 ---
 label: Submit on Click
 hide_body: true
-fields: []
+fields:
+- name: full_name
+  type: text
+  config:
+    required: false
+  label: Full Name
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
+  description: Provide your Email
+- name: position
+  type: tag_list
+  default: []
+  label: Position
+- name: birthday
+  type: datetime
+  label: Birthday
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
