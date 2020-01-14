@@ -46,7 +46,7 @@ upload_dir: images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: true
-file_template: ":filename:"
+file_template: 'filename:, :year:, :month:, :day:./:filename:'
 build:
   preview_env:
   - JEKYLL_ENV=staging
