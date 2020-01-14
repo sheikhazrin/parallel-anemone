@@ -49,3 +49,7 @@ exclude:
 collections:
   posts:
     permalink: "/posts/:title/"
+menu:
+  main:
+    title: IMI CREATVE
+    weight: 2
