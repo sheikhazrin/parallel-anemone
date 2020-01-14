@@ -6,7 +6,7 @@ webhook_url: https://api.stackbit.com/project/5dd7f0a2868ea7001ba27d12/webhook/f
 sections:
 - type: document
   path: _config.yml
-  label: Global Site Config
+  label: Global Sidebar Config
   templates:
   - config
 - type: document
