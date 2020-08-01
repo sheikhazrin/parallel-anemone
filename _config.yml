@@ -2,10 +2,10 @@
 title: JA Made Easy
 baseurl: "/"
 permalink: "/:title/"
-palette: blue
+palette: green
 header:
   title: JA
-  logo_img: images/logo.png
+  logo_img: "/filename:, 2020, 08, 01./smart-recommendtion-blue-512.png"
   has_nav: true
   menu:
     actions:
